@@ -28,6 +28,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Prepared by Srijesh Khanal (C0901118)
+        Lambton College at Mississauga
       </p>
     </>
   );
