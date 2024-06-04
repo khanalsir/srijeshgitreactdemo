@@ -1,3 +1,5 @@
+# srijeshgitreactdemo
+This is the simple react project which is used to show basis git operation. 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
